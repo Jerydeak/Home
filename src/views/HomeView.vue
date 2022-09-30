@@ -3,8 +3,8 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <div class="container">
-      <div class="area" style="background-color: gray;">Helasd asd asd as das lo</div>
-      <div class="area" style="background-color: gold;">Hasd asd asd asd ad sad@</div>
+      <div class="area" style="background-color: gray;">Yu Hao</div>
+      <div class="area" style="background-color: gold;">Frontpage</div>
     </div>
   </div>
 </template>
