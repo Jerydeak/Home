@@ -9,7 +9,7 @@
         <div class="first-letter">Hao Yu</div>
       </div>
       <div class="first-letter" style="margin-bottom: 10px; margin-top: 30px;">BUILDING</div>
-      <!-- <a href="/campus" class="first-letter">Campus</a> -->
+      <a href="/campus" class="first-letter">Campus</a>
       <!-- <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
         <n-input size="large" v-model:value="uid" style="width: 500px;width: 400px; margin-bottom: 10px;"
           placeholder="User ID" />
