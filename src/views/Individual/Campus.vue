@@ -11,6 +11,7 @@
                     <!-- <p>余豪</p> -->
                     <p style="margin-top: 10px; color: #aaa">北京航空航天大学</p>
                     <p style="margin-top: 10px; color: #aaa">yuhao2019@buaa.edu.cn</p>
+                    <p style="margin-top: 10px; color: #aaa">微信：JeryDeak</p>
                 </div>
                 <div style="width: 800px; background-color: transparent; margin-left: 30px; " class="info-container">
                     <p style="font-size: 30px; margin-bottom: 40px; text-indent: 0rem;">个人介绍</p>
