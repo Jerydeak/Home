@@ -11,7 +11,6 @@
                     <!-- <p>余豪</p> -->
                     <p style="margin-top: 10px; color: #aaa">北京航空航天大学</p>
                     <p style="margin-top: 10px; color: #aaa">yuhao2019@buaa.edu.cn</p>
-                    <p style="margin-top: 10px; color: #aaa">微信：JeryDeak</p>
                 </div>
                 <div style="width: 800px; background-color: transparent; margin-left: 30px; " class="info-container">
                     <p style="font-size: 30px; margin-bottom: 40px; text-indent: 0rem;">个人介绍</p>
@@ -53,7 +52,7 @@
                         （2）周末：14:00-次日01:00，可协调。
                     </p>
                     <p style="text-indent: 0rem;">
-                        关于辅导时长，单人约一小时，多人约两小时，若知识点未讲完可适量超出时间，但如果剩余内容过多，可以下次继续辅导。
+                        关于辅导时长，单人约一小时，多人约两小时，若知识点未讲完可适量超出时间，但如果剩余内容过多，可以下次继续辅导。如果预约了辅导，请联系微信JeryDeak。
                     </p>
                 </div>
             </div>
