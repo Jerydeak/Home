@@ -9,23 +9,25 @@
         <div class="first-letter">Hao Yu</div>
       </div>
       <div class="first-letter" style="margin-bottom: 10px; margin-top: 30px;">BUILDING</div>
-      <a href="/campus" class="first-letter">Campus</a>
+      <a href="/?campus" class="first-letter">Campus</a>
       <!-- <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-        <n-input size="large" v-model:value="uid" style="width: 500px;width: 400px; margin-bottom: 10px;"
-          placeholder="User ID" />
-        <n-input size="large" v-model:value="pwd" style="width: 500px;width: 400px; margin-bottom: 10px;"
-          placeholder="Password" />
-        <n-button type="info" style="height: 40px; width: 400px;" @click="submit">Enter</n-button>
-      </div> -->
+              <n-input size="large" v-model:value="uid" style="width: 500px;width: 400px; margin-bottom: 10px;"
+                placeholder="User ID" />
+              <n-input size="large" v-model:value="pwd" style="width: 500px;width: 400px; margin-bottom: 10px;"
+                placeholder="Password" />
+              <n-button type="info" style="height: 40px; width: 400px;" @click="submit">Enter</n-button>
+            </div> -->
     </div>
     <!-- <div class="area" style="background-color: gray;">Yu Hao</div>
-    <div class="area" style="background-color: gold;">Frontpage</div> -->
+          <div class="area" style="background-color: gold;">Frontpage</div> -->
   </div>
+
 </template>
 
 <script setup>
   import { ref } from "vue"
   import axios from "axios"
+  // import Campus from "./Individual/Campus.vue"
   const uid = ref("");
   const pwd = ref("");
   function submit() {

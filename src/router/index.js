@@ -1,4 +1,5 @@
 import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
+import Main from '../views/Main.vue'
 import HomeView from '../views/HomeView.vue'
 import Campus from '../views/Individual/Campus'
 // import ChatRoom from '../views/ChatRoom.vue'
@@ -8,12 +9,12 @@ import Campus from '../views/Individual/Campus'
 const routes = [
   {
     path: '/',
-    component: HomeView
+    component: Main
   },
-  {
-    path: '/campus',
-    component: Campus,
-  }
+  // {
+  //   path: '/campus',
+  //   component: Campus,
+  // }
 ]
 
 const router = createRouter({
